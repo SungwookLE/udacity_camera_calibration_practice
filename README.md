@@ -8,7 +8,7 @@ JUST SMALL PROJECT TO PRACTICE THE CARMERA CALIBRATION using my labtop
 
 <img src="cam_cal.gif"/>
 
-- Patter Image is here
+- Pattern Image is here
 
 <img src="pattern.png"/>
 
