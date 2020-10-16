@@ -6,7 +6,7 @@ JUST SMALL PROJECT TO PRACTICE THE CARMERA CALIBRATION using my labtop
 
 # This is the gif image while taking the pattern board
 
-<img src="carmera_cal_wooks_auto.gif"/>
+<img src="cam_cal.gif"/>
 
 - Patter Image is here
 
@@ -17,7 +17,7 @@ JUST SMALL PROJECT TO PRACTICE THE CARMERA CALIBRATION using my labtop
 - I think that the pattern pictures are needed more and there are more clearity
 
 original
-<img src="my_computer_picture/2020-10-16-211920.jpg"/>
+<img src="my_computer_picture/2020-10-16-211835.jpg"/>
 
 result
 <img src="my_computer_picture/test_undist.jpg"/>
